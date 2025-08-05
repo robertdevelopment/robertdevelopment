@@ -1,8 +1,6 @@
 
 ### Olá! Eu sou o Robert Rodrigues 👋
-Desenvolvedor Junior IOS - Swift
-
-![Swift](https://img.icons8.com/color/48/swift.png)
+Desenvolvedor 
 <br>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
