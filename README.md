@@ -35,48 +35,27 @@
 <br>
   <!-- GitHub stats -->
   <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-bottom: 40px;">
-        <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=robertdevelopment&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"
-      alt="GitHub Stats"
-      style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);"
-      loading="lazy"
-        />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdevelopment&layout=compact&langs_count=7&theme=dracula&hide_border=true"
-      alt="Top Linguagens"
-      style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);"
-      loading="lazy"
-    />
-    
-  </div>
-<br>
-<br>
-  <h2>Tecnologias usadas no dia a dia!</h2>
-  <section style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div style="background: #222; padding: 15px 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0, 188, 212, 0.5); display: flex; align-items: center; gap: 10px; min-width: 120px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" />
-      <span style="color: #e34f26; font-weight: 700; font-size: 1.1rem;">HTML5</span>
-    </div>
-    <div style="background: #222; padding: 15px 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(21, 114, 182, 0.5); display: flex; align-items: center; gap: 10px; min-width: 120px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" />
-      <span style="color: #1572b6; font-weight: 700; font-size: 1.1rem;">CSS3</span>
-    </div>
-    <div style="background: #222; padding: 15px 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(247, 223, 30, 0.7); display: flex; align-items: center; gap: 10px; min-width: 140px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" />
-      <span style="color: #f7df1e; font-weight: 700; font-size: 1.1rem;">JavaScript</span>
-    </div>
-    <div style="background: #222; padding: 15px 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(55, 118, 171, 0.5); display: flex; align-items: center; gap: 10px; min-width: 120px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" />
-      <span style="color: #3776ab; font-weight: 700; font-size: 1.1rem;">Python</span>
-    </div>
-    <div style="background: #222; padding: 15px 25px; border-radius: 12px; box-shadow: 0 5px 15px rgba(237, 139, 0, 0.7); display: flex; align-items: center; gap: 10px; min-width: 120px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="32" />
-      <span style="color: #ed8b00; font-weight: 700; font-size: 1.1rem;">Java</span>
-    </div>
-  </section>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=robertdevelopment&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"
+    alt="GitHub Stats"
+    style="width: 360px; height: 180px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7); object-fit: cover;"
+    loading="lazy"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdevelopment&layout=compact&langs_count=7&theme=dracula&hide_border=true"
+    alt="Top Linguagens"
+    style="width: 360px; height: 180px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7); object-fit: cover;"
+    loading="lazy"
+  />
 </div>
 
 
+<br>
+<br>
+  
+
+## Tecnologias usadas no dia a dia!
+
+| ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Pandas](https://pandas.pydata.org/static/img/pandas_mark.svg) | ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg) | ![Matplotlib](https://matplotlib.org/_static/images/logo2.svg) |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------ | ------------------------------------------- | -------------------------------------------- |
+| **HTML5**                                                                                        | **CSS3**                                                                                      | **JavaScript**                                                                                                   | **Python**                                                                                      | **Pandas**                      | **Seaborn**                                | **Matplotlib**                               |
