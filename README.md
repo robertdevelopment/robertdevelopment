@@ -18,11 +18,11 @@
 
   <!-- Botões de contato com hover animado -->
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 40px;">
-    <a href="mailto:seuemail@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <a href="mailto:robertdnascimento@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
     <a href="https://wa.me/seunumerodetelefone" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      <img src="https://img.shields.io/badge/5511959984276-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
     <a href="https://linkedin.com/in/seulinkedin" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
